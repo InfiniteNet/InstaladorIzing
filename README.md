@@ -8,7 +8,7 @@ Firstly, you need to download it:
 ```bash
 sudo apt -y update && apt -y upgrade
 sudo apt install -y git
-git clone https://github.com/Silvioerick/instalador.izing.premium
+git clone https://github.com/InfiniteNet/InstaladorIzing
 ```
 
 ### usage
